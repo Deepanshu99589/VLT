@@ -12,8 +12,8 @@ git+https://github.com/bnsantoso/sub-to-audio
 pyttsx3
 
 # PyTorch and related libraries
-torch==2.0.0+cpu
-torchaudio==2.0.0+cpu
+torch==2.0.0
+torchaudio==2.0.0
 
 # Additional libraries
 git+https://github.com/linto-ai/whisper-timestamped
