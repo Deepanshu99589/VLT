@@ -17,6 +17,5 @@ torchaudio==2.0.0+cpu
 
 # Additional libraries
 git+https://github.com/linto-ai/whisper-timestamped
-git+https://github.com/DeeepMaker/subtitle-to-audio
 
 gunicorn
