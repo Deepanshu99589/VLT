@@ -1,0 +1,20 @@
+# Python libraries
+SpeechRecognition
+langdetect
+translate
+deepspeech
+pydub
+moviepy
+pyaudio
+spleeter
+TTS
+git+https://github.com/bnsantoso/sub-to-audio
+pyttsx3
+
+# PyTorch and related libraries
+torch==2.0.0+cpu
+torchaudio==2.0.0+cpu
+
+# Additional libraries
+git+https://github.com/linto-ai/whisper-timestamped
+git+https://github.com/DeeepMaker/subtitle-to-audio
